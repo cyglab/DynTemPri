@@ -1,1 +1,1 @@
-# DynTemPri
+# Dynamic Temporal Prior
